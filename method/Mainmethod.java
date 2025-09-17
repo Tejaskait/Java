@@ -5,5 +5,4 @@ class Mainmethod{
     }
 }
 
-
 //we need atleast one main method 

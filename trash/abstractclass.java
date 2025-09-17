@@ -1,27 +1,28 @@
-
-
 abstract class Main{
        abstract void KK();
-
+       abstract void JK();
 }
-
 class abstrackintclass extends Main{
 
     
   int $_j,k;
         void KK(){
             $_j =k= 6;
-            System.out.print($_j+k);
+            //System.out.print($_j+k);
+        }
+
+        void JK(){
+            int juj = 009;
+            System.out.print(juj);
         }
     
 }
-
 class abstractclass{
     public static void main(String[] args){
     abstrackintclass m=new abstrackintclass();
     m.KK();
     for(int i=0;i<m.$_j;i++){
-        System.out.print(m.$_j);
+       // System.out.print(m.$_j);
     }
     }
 }
