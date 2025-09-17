@@ -17,7 +17,9 @@ class God{
            short y = 7;
            final boolean bool=true;
                //bool=false;
+               float i = 34.34e1f;
            float flo=69.69f;
+           double ka = 34.3434E3d;
      byte j=127;
            System.out.println(flo);
            System.out.println(stri);
@@ -29,6 +31,8 @@ System.out.println(k);
         System.out.println(y);
            System.out.println(j);
            System.out.println("hi"+o);
+             System.out.println(i);
 
+   System.out.println(ka);
     }
 }
