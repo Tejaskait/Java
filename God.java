@@ -12,13 +12,16 @@ class God{
            int a=8;
            String stri = "meno";
            char ch='a';
-           boolean bool=true;
+           final boolean bool=true;
+               //bool=false;
            float flo=69.69f;
            System.out.println(flo);
            System.out.println(stri);
            System.out.println(ch);
            System.out.println(bool);
            System.out.println(a);
+
+           
 
     }
 }
