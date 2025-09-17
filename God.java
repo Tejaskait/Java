@@ -4,5 +4,6 @@ class God{
             System.out.println("hi2");
             System.out.print("hi");
             System.out.print("hi2");
+            System.out.println(6+7);
     }
 }
