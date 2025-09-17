@@ -5,5 +5,9 @@ class God{
             System.out.print("hi");
             System.out.print("hi2");
             System.out.println(6+7);
+            //code
+            /* 
+            code
+            */
     }
 }
